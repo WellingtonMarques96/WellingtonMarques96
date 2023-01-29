@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/WellingtonMarques96/19bf6ba9b77acd5808a14253a0dd744c/raw/785e992c57602024930c8235f60a8618caa45541/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/WellingtonMarques96/f79b8ea1f8830bf78002b019dcf4913a/raw/763ce52f75c2b2320920049c7613fc8ddab1315f/githubwell.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wellington Marques</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WellingtonMarques96&color=yellow" alt="Profile views" /> </p>
 
