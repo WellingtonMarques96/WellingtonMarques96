@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer in career's transition
 
-- 🔭 I’m currently working as Inside Sales, but my focus is starting as a Front End Developer
+- 🔭 I’m currently working as a volunteer Front End Developer in Palavras de Paz Web.
 
 - 💬 Learning **JavaScript, HTML, CSS and React**
 
