@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Wellington Marques</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=WellingtonMarques96&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer in career's transition
+- 🔥 Web Developer in career's transition
 
 - 🔭 I’m currently working as a volunteer Front End Developer in Palavras de Paz Web.
 
